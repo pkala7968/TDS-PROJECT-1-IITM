@@ -1,0 +1,131 @@
+Row Labels,Count of language
+ABAP,1
+ActionScript,1
+Agda,1
+AGS Script,2
+ApacheConf,3
+Apex,1
+AppleScript,1
+Arduino,5
+ASP,7
+Assembly,40
+Astro,11
+AutoHotkey,1
+Batchfile,12
+Bicep,1
+Blade,2
+C,500
+C#,250
+C++,847
+Chapel,2
+Clojure,2
+CMake,12
+CoffeeScript,13
+Common Lisp,1
+Common Workflow Language,1
+Coq,1
+CSS,711
+Cuda,5
+Cypher,1
+D,14
+Dart,449
+DIGITAL Command Language,1
+Dockerfile,61
+EJS,19
+Elixir,16
+Emacs Lisp,4
+Erlang,18
+Fortran,5
+FreeMarker,3
+GCC Machine Description,1
+GDScript,4
+Gherkin,1
+GLSL,1
+Go,321
+Groovy,18
+Hack,4
+Handlebars,5
+Haskell,27
+HCL,133
+HTML,1990
+Java,2086
+JavaScript,4171
+Jinja,9
+Jsonnet,2
+Julia,51
+Jupyter Notebook,1687
+Kotlin,441
+Lean,1
+Lex,2
+LiveScript,1
+Logos,1
+Lua,24
+Makefile,50
+Markdown,1
+Mathematica,2
+Matlab,65
+MDX,4
+Mint,1
+Move,1
+Mustache,4
+Nim,1
+Nix,1
+Nunjucks,1
+Objective-C,36
+OCaml,11
+OpenEdge ABL,2
+OpenQASM,2
+Perl,38
+PHP,232
+PLpgSQL,7
+PLSQL,3
+PowerShell,19
+Prolog,3
+Pug,4
+PureBasic,1
+Python,3279
+QML,5
+R,70
+Racket,5
+RAML,2
+Ren'Py,1
+Rich Text Format,3
+RobotFramework,2
+Roff,2
+Rouge,1
+Ruby,260
+Rust,85
+Sass,1
+Scala,46
+Scheme,1
+Scilab,1
+SCSS,44
+ShaderLab,4
+Shell,362
+Slash,1
+Smalltalk,1
+Smarty,12
+Solidity,35
+Starlark,1
+Stylus,1
+Svelte,4
+Swift,55
+SystemVerilog,2
+Tcl,6
+TeX,48
+TSQL,9
+TypeScript,769
+Vala,1
+Verilog,17
+VHDL,1
+Vim Script,15
+VimL,9
+Visual Basic,3
+Visual Basic .NET,1
+Vue,39
+xBase,1
+XSLT,2
+Yacc,1
+YARA,1
+(blank),
+Grand Total,19704
